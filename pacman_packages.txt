@@ -34,6 +34,7 @@ luarocks
 lutris
 mediainfo
 mtools
+ncdu
 nano
 noto-fonts-emoji
 ntfs-3g
